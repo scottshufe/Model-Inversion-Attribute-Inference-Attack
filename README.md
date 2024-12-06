@@ -1,7 +1,18 @@
 # Model-Inversion-Attribute-Inference-Attack
- Re-implementation of Model Inversion Attribute Inference (MIAI) attack [USENIX'Sec 2022] with Pytorch
+ [USENIX'Sec 2022] Are your sensitive attributes private? novel model inversion attribute inference attacks on classification models
+ 
+ Re-implementation of Model Inversion Attribute Inference (MIAI) attack with Pytorch
 
-## Raw repository implemented by BigML
+## How to use
+```
+python train_target_model.py
+python run_attack.py
+```
+
+## Results
+![这是图片](/image/my_result.png "result on Adult with DNN")
+
+## Original repository implemented by BigML
 [https://github.com/smehnaz/Black-box-Model-Inversion-Attribute-Inference](https://github.com/smehnaz/Black-box-Model-Inversion-Attribute-Inference)
 
 ## Reference
