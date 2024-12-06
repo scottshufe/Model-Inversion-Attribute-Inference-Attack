@@ -10,7 +10,10 @@ python run_attack.py
 ```
 
 ## Results
-![这是图片](/image/my_result.png "result on Adult with DNN")
+- Results by my codes:
+![我的结果](/image/my_result.png "result on Adult with DNN by my codes")
+- Results in the paper (nearly the same):
+![论文结果](/image/paper_result.png "result on Adult with DNN in paper")
 
 ## Original repository implemented by BigML
 [https://github.com/smehnaz/Black-box-Model-Inversion-Attribute-Inference](https://github.com/smehnaz/Black-box-Model-Inversion-Attribute-Inference)
